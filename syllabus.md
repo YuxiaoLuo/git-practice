@@ -1,6 +1,6 @@
 # STA2000: Introduction to Business Statistics 
 
-## Course Information 
+## Course Information Fall 2021
 
 Professor: Yuxiao Luo
 

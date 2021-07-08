@@ -31,5 +31,7 @@ This course provides students with the statistical tools and concepts needed in 
   - Read Chapter 9; Chapters 9 Excel Guide
   
 - **Topic VII**: Hypothesis Testing Part II (*1.5 weeks*)
+https://github.com/DHRI-Curriculum/git.git
+
   - Chapter 10, Sections 1-3 (testing only); Chapter 11; Chapters 10-11 Excel Guides
 
